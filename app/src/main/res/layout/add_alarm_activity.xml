@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/chooseaddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/stroke_bg_blue"
+        android:hint="choose address"
+        android:padding="10dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp" />
+
+
+    <EditText
+        android:id="@+id/reminder_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/stroke_bg_blue"
+        android:hint="Enter reminder text"
+        android:padding="10dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/date_pick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/stroke_bg_blue"
+        android:hint="Enter expiry date(mm/dd/yy)"
+        android:padding="10dp"
+        android:textColor="@color/colorPrimary"
+        android:textSize="16sp" />
+
+
+    <TextView
+        android:id="@+id/save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/drawable_back_edit"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/save"
+        android:textColor="@color/colorWhite" />
+</LinearLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "253513666845",
+    "firebase_url": "https://alarmlocator-195407.firebaseio.com",
+    "project_id": "alarmlocator-195407",
+    "storage_bucket": "alarmlocator-195407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253513666845:android:50474c80d16fef57",
+        "android_client_info": {
+          "package_name": "com.example.mahesh.alarmlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253513666845-5ocbhbq30c2gdh56hm6qqntjdb5ghpee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rs1ZgL2NHNunsKmMq88j-uMq8MhZ6S8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
